@@ -1,8 +1,45 @@
-# React + Vite
+# 🛒 E-commerce Shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive e-commerce website built with **React**, **Tailwind CSS**, and **Vite**. Features product listings, shopping cart functionality, filters, and a seamless shopping experience on all devices.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
+
+👉 [https://ecomarswebsite.vercel.app/](https://ecomarswebsite.vercel.app/)
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js  
+- Tailwind CSS  
+- Vite  
+- Firebase (for authentication and database)  
+- React Router (for navigation)  
+- React Hook Form (for form handling)  
+- JavaScript (ES6)  
+- HTML5 + JSX  
+- Git & GitHub  
+
+---
+
+## 📁 Features
+
+- Product listing with images and prices  
+- Shopping cart with add/remove functionality  
+- User authentication via Firebase  
+- Responsive design for mobile and desktop  
+- Smooth navigation with React Router  
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/your-username/ecommerce-shop.git
+cd ecommerce-shop
+npm install
+npm run dev
